@@ -4,8 +4,6 @@ var toolbox = null;
 var colourP = null;
 var helpers = null;
 
-
-
 function setup() {
 
 	//create a canvas to fill the content div from index.html
@@ -26,6 +24,7 @@ function setup() {
 	toolbox.addTool(new SprayCanTool());
 	toolbox.addTool(new mirrorDrawTool());
 	toolbox.addTool(new RectangleTool());
+	toolbox.addTool(new StampTool());
 	background(255);
 
 }

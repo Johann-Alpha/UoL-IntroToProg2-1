@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="stampIcon.svg"
+   inkscape:export-filename="stampIcon.jpg"
+   inkscape:export-xdpi="181.5"
+   inkscape:export-ydpi="181.5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.8515625"
+     inkscape:cx="49.623717"
+     inkscape:cy="64.072976"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <title
+     id="title2">STAMP</title>
+  <path
+     d="M97.4,86.724H85.364L78.542,73.963A1.752,1.752,0,0,0,77,73.038H74.141V59.029A27.02,27.02,0,0,1,80.9,41.447,22.323,22.323,0,1,0,47.23,41.6a26.384,26.384,0,0,1,6.629,17.425V73.038H51a1.752,1.752,0,0,0-1.544.925L42.636,86.724H30.6a7.27,7.27,0,0,0-7.262,7.262v18.936a1.75,1.75,0,0,0,1.75,1.75h5.5v7.021a1.75,1.75,0,0,0,1.75,1.75H95.658a1.75,1.75,0,0,0,1.75-1.75v-7.021h5.5a1.75,1.75,0,0,0,1.75-1.75V93.986A7.27,7.27,0,0,0,97.4,86.724ZM49.857,39.288a18.818,18.818,0,0,1,15.19-31.2,19.066,19.066,0,0,1,17.776,18.66,18.766,18.766,0,0,1-4.568,12.413A30.724,30.724,0,0,0,70.7,57.276H57.3A29.917,29.917,0,0,0,49.857,39.288Zm7.5,21.488H70.641V73.038H57.359ZM52.051,76.538h23.9l5.445,10.186H46.606Zm41.857,43.405H34.092v-5.271H93.908Zm7.25-8.771H26.842V93.986A3.765,3.765,0,0,1,30.6,90.224H97.4a3.765,3.765,0,0,1,3.762,3.762Z"
+     id="path4" />
+</svg>

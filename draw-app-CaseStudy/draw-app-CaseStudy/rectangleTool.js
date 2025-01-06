@@ -1,3 +1,4 @@
+// the following code is a modification of the line tool
 function RectangleTool () {
     this.icon = "assets/rectangle.jpg";
     this.name = "Rectangle";
@@ -17,7 +18,9 @@ function RectangleTool () {
 
             else {
                 updatePixels();
+                // The following code was written by me
                 rect(startMouseX, startMouseY, (mouseX - startMouseX),(mouseY - startMouseY));
+                // End of code written by me
             }
         }
 
@@ -29,3 +32,4 @@ function RectangleTool () {
     };
 
 }
+
